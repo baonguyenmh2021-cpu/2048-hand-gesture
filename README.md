@@ -2,7 +2,8 @@
 
 Một phiên bản làm lại của tựa game 2048 kinh điển, tích hợp công nghệ Computer Vision để điều khiển bằng cử chỉ tay thay vì bàn phím truyền thống. Dự án ứng dụng **MediaPipe** để tracking khớp tay và **OpenCV** để xử lý hình ảnh realtime.
 
-![Demo 2048](./assets/demo-2048.gif)
+![Video Project 2](https://github.com/user-attachments/assets/989e6e7d-1240-4434-acf0-56dc445a6ddc)
+
 
 
 ## ✨ Tính năng nổi bật

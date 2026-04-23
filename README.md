@@ -22,7 +22,7 @@ Dự án này có thể chạy tốt trên môi trường Windows. Để chạy 
 
 **1. Clone repository về máy:**
 ```bash
-git clone [https://github.com/TenCuaBa/2048-hand-gesture.git](https://github.com/TenCuaBa/2048-hand-gesture.git)
+git clone [https://github.com/baonguyenmh2021-cpu/2048-hand-gesture.git]
 cd 2048-hand-gesture
 2. Tạo môi trường ảo (Virtual Environment):
 

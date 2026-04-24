@@ -30,20 +30,25 @@ Dự án này có thể chạy tốt trên môi trường Windows. Để chạy 
 ```bash
 git clone [https://github.com/baonguyenmh2021-cpu/2048-hand-gesture.git]
 cd 2048-hand-gesture
-2. Tạo môi trường ảo (Virtual Environment):
+```
 
-Bash
+**2. Tạo môi trường ảo (Virtual Environment):**
+
+```Bash
 python -m venv venv
 venv\Scripts\activate
-3. Cài đặt các thư viện cần thiết:
+```
+**3. Cài đặt các thư viện cần thiết:**
 
-Bash
+```Bash
 pip install -r requirements.txt
-4. Khởi chạy game:
+```
+**4. Khởi chạy game:**
 
-Bash
+```Bash
 python game2048OpenCVMediapipe.py
-🕹️ Cách điều khiển
+```
+## 🕹️ Cách điều khiển
 Sau khi chạy script, bạn có thể chọn 1 trong 2 chế độ ở Menu chính:
 
 Phím 1 (Bàn phím): Dùng các phím Mũi tên (Lên, Xuống, Trái, Phải) để gộp số.

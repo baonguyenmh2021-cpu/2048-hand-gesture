@@ -17,7 +17,8 @@ https://github.com/user-attachments/assets/756397c2-f15a-44c7-b67b-04e989b247f8
 
 ## 🛠️ Công nghệ sử dụng
 * **Ngôn ngữ:** Python 3.x
-* **Thư viện:** * `opencv-python` (Xử lý ảnh/video)
+* **Thư viện:**
+  * `opencv-python` (Xử lý ảnh/video)
   * `mediapipe` (Nhận diện & trích xuất đặc trưng bàn tay)
   * `pygame` (Xây dựng UI Game)
   * `pyautogui` (Giả lập phím bấm)
